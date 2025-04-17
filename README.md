@@ -1,5 +1,5 @@
-## Custom component libraries template
+## Monaco editor x Retool custom component
 
-Use this as a base for new custom component library projects within [Retool](https://www.retool.com).
+A Monaco editor react port to a custom component within [Retool](https://www.retool.com)
 
-To learn more about how custom component libraries work, visit our [official documentation](https://docs.retool.com/apps/guides/custom/custom-component-libraries).
+[Stackdrop](https://stackdrop.co)

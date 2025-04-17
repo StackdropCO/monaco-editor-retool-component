@@ -1,12 +1,13 @@
 {
-  "name": "monaco-editor-retool-custom-component",
+  "name": "stackdrop-monaco-editor-retool-component",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@monaco-editor/react": "^4.7.0",
     "@tryretool/custom-component-support": "latest",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-beautiful-dnd": "^13.1.1",
+    "react-dom": "^18.2.0",
+    "@monaco-editor/react": "latest"
   },
   "engines": {
     "node": ">=20.0.0"
@@ -37,9 +38,9 @@
     "prettier": "^3.0.3"
   },
   "retoolCustomComponentLibraryConfig": {
-    "name": "MonacoEditor",
-    "label": "Monaco Editor",
-    "description": "Port of the monaco code editor",
+    "name": "MonacoEcitor",
+    "label": "Monaco ecitor",
+    "description": "Monaco editor port",
     "entryPoint": "src/index.tsx",
     "outputPath": "dist"
   }
